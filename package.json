@@ -1,5 +1,5 @@
 {
-  "name": "do-vue",
+  "name": "alinesno-do-vue",
   "version": "1.0.0",
   "description": "Custom Vue templates & resources for DigitalOcean Community tools.",
   "main": "src/cli.js",
@@ -17,18 +17,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/do-community/do-vue.git"
+    "url": "git+https://github.com/switchII/do-vue.git"
   },
   "author": "DigitalOcean",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/do-community/do-vue/issues"
+    "url": "https://github.com/switchII/do-vue/issues"
   },
-  "homepage": "https://github.com/do-community/do-vue#readme",
+  "homepage": "https://github.com/switchII/do-vue#readme",
   "dependencies": {
     "assert": "^2.0.0",
     "babel-loader": "^8.2.2",
-    "browserify-fs": "git+https://github.com/do-community/browserify-fs.git",
+    "browserify-fs": "git+https://github.com/switchII/browserify-fs.git",
     "buffer": "^6.0.3",
     "constants-browserify": "^1.0.0",
     "css-loader": "^5.2.0",
